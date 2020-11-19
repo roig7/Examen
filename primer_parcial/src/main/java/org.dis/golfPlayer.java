@@ -1,17 +1,19 @@
 package org.dis;//Clase para crear el objeto plano (POJO) con anotaciones
 
-import com.opencsv.*;
+import com.opencsv.bean.CsvBindByName;
+import com.opencsv.bean.CsvBindByPosition;
 
 public class golfPlayer {
-    @CSVBindByName
+
+    @CsvBindByName(column = "Posicion")
     private String posicion;
-    @CSVBindByName
+    @CsvBindByName(column = "Nombre")
     private String nombre;
-    @CSVBindByName
+    @CsvBindByName(column = "Apellido")
     private String apellido;
-    @CSVBindByName
+    @CsvBindByName(column = "Pais")
     private String pais;
-    @CSVBindByName
+    @CsvBindByName(column = "Edad")
     private int edad;
 
 
