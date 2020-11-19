@@ -1,0 +1,4 @@
+Creamos el documento maven utilizando el comando maven:generate, con las propiedades
+que se nos facilitan.
+Despues modificamos el fichero pom.xml añadiendo dentro de la etiqueta dependencies
+las dependencias que se nos facilitan para ello tambien hemos de meter estos atributos dentro de las etiquetas dependency.
