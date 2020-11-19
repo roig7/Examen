@@ -23,10 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e43a5ca-d7bc-4577-a072-20dff0f0bb7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.dis/LeeCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.dis/LeeCSV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org.dis/golfPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.dis/golfPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/dis/CSVBindByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/dis/CSVBindByName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605813695159</updated>
-      <workItem from="1605813696414" duration="2349000" />
+      <workItem from="1605813696414" duration="2373000" />
     </task>
     <servers />
   </component>
